@@ -76,6 +76,7 @@ class SecurityService
         return $this->users->viewEducation($id);
     }
     
+    //addJob
     public function addJob($id)
     {
         $this->users = new SecurityDAO();
