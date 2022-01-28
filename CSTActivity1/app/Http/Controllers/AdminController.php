@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\services\business\SecurityService;
+use App\Services\Business\SecurityService;
 
 class AdminController extends Controller
 {
