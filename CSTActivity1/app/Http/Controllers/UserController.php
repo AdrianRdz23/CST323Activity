@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Carbon\Exceptions\Exception;
 use App\Http\Models\User;
 use Illuminate\Http\Request;
-use App\services\business\SecurityService;
+use App\Services\Business\SecurityService;
 
 class UserController extends Controller
 {
