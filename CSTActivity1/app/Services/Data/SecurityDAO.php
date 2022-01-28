@@ -7,7 +7,7 @@ class SecurityDAO
 {
     //Define the connection string
     private $conn;
-    private $severname = "ble5mmo2o5v9oouq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com	";
+    private $severname = "ble5mmo2o5v9oouq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
     private $username = "q8t50e2mgkgeya6a";
     private $password = "xw7k0gdcrixcv0gt";
     private $dbname = "v8jzfcnkdwef72z9";
