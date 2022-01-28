@@ -2,7 +2,7 @@
 namespace App\Services\Business;
 
 use App\Http\Models\User;
-use App\Services\Data\SecurityDAO;
+use App\services\data\SecurityDAO;
 
 
 class SecurityService
